@@ -1,0 +1,21 @@
+/* -----------------------------------------------------
+   created with https://www.codeandweb.com/texturepacker 
+   -----------------------------------------------------
+   $TexturePacker:SmartUpdate:fa478f26bec15dedb803f48190740e5b:597e08f92a5d9a908b80de05b0e883bc:68c3128a5b583830bcea5b2f6af5593f$
+   -----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(btnsprite.png);}
+
+.cancelBTN {width:244px; height:72px; background-position: -410px -181px}
+.gameStartBTN {width:910px; height:161px; background-position: -1053px -1px}
+.下一关按钮 {width:407px; height:122px; background-position: -1053px -164px}
+.再玩一次按钮 {width:407px; height:122px; background-position: -1462px -164px}
+.确定按钮 {width:244px; height:72px; background-position: -656px -181px}
+.获取证书按钮 {width:407px; height:122px; background-position: -1px -181px}
+.起名字 {width:1050px; height:178px; background-position: -1px -1px}
