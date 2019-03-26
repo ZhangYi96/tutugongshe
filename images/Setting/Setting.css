@@ -1,0 +1,22 @@
+/* ----------------------------------------------------
+   created with http://www.texturepacker.com 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:544b5599dec6011b84d7e891ced8eb97$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(Setting.png);}
+
+.彩蛋键 {width:103px; height:146px; background-position: -317px -2px}
+.测试键 {width:103px; height:146px; background-position: -212px -2px}
+.番外返回 {width:306px; height:85px; background-position: -2px -150px}
+.番外键 {width:103px; height:146px; background-position: -107px -2px}
+.设置界面返回 {width:124px; height:124px; background-position: -422px -2px}
+.设置键 {width:103px; height:146px; background-position: -2px -2px}
+.音效关闭按钮 {width:289px; height:81px; background-position: -548px -2px}
+.音效开启按钮 {width:289px; height:81px; background-position: -310px -150px}

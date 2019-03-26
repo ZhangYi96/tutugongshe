@@ -1,7 +1,7 @@
 /* -----------------------------------------------------
    created with https://www.codeandweb.com/texturepacker 
    -----------------------------------------------------
-   $TexturePacker:SmartUpdate:970bf28821bb8cfd12460db01b320c47:b612f884b86d748db09b8af1329b10be:dbfc08803a5621509cd456a6abf29ea9$
+   $TexturePacker:SmartUpdate:7c26ff6b408302dcf8518c495548c4d2:cec84daccf05b4913b41fbee2b994798:87a4c614c253d9d740129828be91b8fd$
    -----------------------------------------------------
 
    usage: <span class="{-spritename-} sprite"></span>
@@ -10,10 +10,9 @@
 
 */
 
-.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(welcome.png);}
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(xx.png);}
 
-.new1 {width:770px; height:400px; background-position: -0px -0px}
-.new2 {width:770px; height:400px; background-position: -0px -400px}
-.new3 {width:770px; height:400px; background-position: -0px -800px}
-.new4 {width:770px; height:400px; background-position: -0px -1200px}
-.new5 {width:770px; height:400px; background-position: -0px -1600px}
+.1 {width:1031px; height:437px; background-position: -1px -1px}
+.2 {width:1031px; height:437px; background-position: -1px -440px}
+.3 {width:1031px; height:437px; background-position: -1px -879px}
+.4 {width:1031px; height:437px; background-position: -1px -1318px}

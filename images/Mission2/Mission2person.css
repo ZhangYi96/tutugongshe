@@ -1,0 +1,19 @@
+/* ----------------------------------------------------
+   created with http://www.texturepacker.com 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:61aafd49a5b65e21ce8311ca9cebdc51$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(Mission2person.png);}
+
+.张嘴 {width:400px; height:930px; background-position: -1610px -2px}
+.微笑 {width:400px; height:930px; background-position: -1208px -2px}
+.眨眼 {width:400px; height:930px; background-position: -806px -2px}
+.挠头 {width:400px; height:930px; background-position: -404px -2px}
+.困 {width:400px; height:930px; background-position: -2px -2px}

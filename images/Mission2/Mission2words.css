@@ -1,0 +1,24 @@
+/* ----------------------------------------------------
+   created with http://www.texturepacker.com 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:1e1ea82b257e5e79fe47a9636bb44602$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(Mission2words.png);}
+
+.赚钱 {width:1037px; height:460px; background-position: -1041px -1850px}
+.小超市 {width:1037px; height:460px; background-position: -2px -1850px}
+.同道中人{width:1037px; height:460px; background-position: -1041px -1388px}
+.熬夜{width:1037px; height:460px; background-position: -2px -1388px}
+.吃东西 {width:1037px; height:460px; background-position: -1041px -926px}
+.可乐{width:1037px; height:460px; background-position: -2px -926px}
+.洗发水 {width:1037px; height:460px; background-position: -1041px -464px}
+.咖啡{width:1037px; height:460px; background-position: -2px -464px}
+.箱子 {width:1037px; height:460px; background-position: -1041px -2px}
+.篮子 {width:1037px; height:460px; background-position: -2px -2px}

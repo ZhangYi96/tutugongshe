@@ -1,0 +1,22 @@
+/* ----------------------------------------------------
+   created with http://www.texturepacker.com 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:210df731a86ec3fea06a04b541a376b1$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(Mission2object.png);}
+
+.basket {width:271px; height:235px; background-position: -124px -841px}
+.box {width:319px; height:263px; background-position: -691px -826px}
+.cafe {width:159px; height:216px; background-position: -397px -841px}
+.cola {width:65px; height:107px; background-position: -558px -841px}
+.counter {width:331px; height:557px; background-position: -691px -2px}
+.hair {width:120px; height:247px; background-position: -2px -841px}
+.openbox {width:319px; height:263px; background-position: -691px -561px}
+.shopcar {width:687px; height:837px; background-position: -2px -2px}

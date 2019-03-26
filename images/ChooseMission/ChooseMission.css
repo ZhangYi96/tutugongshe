@@ -1,0 +1,19 @@
+/* ----------------------------------------------------
+   created with http://www.texturepacker.com 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:e0ec84b62789b331e5b1df02418a3cf8$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(ChooseMission.png);}
+
+.关1 {width:384px; height:320px; background-position: -2px -646px}
+.关2 {width:384px; height:320px; background-position: -388px -324px}
+.关3 {width:384px; height:320px; background-position: -2px -324px}
+.关4 {width:384px; height:320px; background-position: -388px -2px}
+.关5 {width:384px; height:320px; background-position: -2px -2px}

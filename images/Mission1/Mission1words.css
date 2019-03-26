@@ -1,0 +1,21 @@
+/* ----------------------------------------------------
+   created with http://www.texturepacker.com 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:8f10696e2fb7032f713f06bedaaebec9$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(Mission1words.png);}
+
+.cleaner {width:1031px; height:436px; background-position: -2px -1316px}
+.comb {width:1031px; height:436px; background-position: -1035px -878px}
+.compute {width:1031px; height:436px; background-position: -2px -878px}
+.duck {width:1031px; height:436px; background-position: -1035px -440px}
+.fly {width:1031px; height:436px; background-position: -2px -440px}
+.mirror {width:1031px; height:436px; background-position: -1035px -2px}
+.wind {width:1031px; height:436px; background-position: -2px -2px}

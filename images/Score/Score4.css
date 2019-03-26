@@ -1,0 +1,19 @@
+/* ----------------------------------------------------
+   created with http://www.texturepacker.com 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:5ca3f97c7aecb72b2904c7a3d146db25$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(MissionScore4.png);}
+
+.0_4 {width:200px; height:100px; background-position: -810px -2px}
+.1_4 {width:200px; height:100px; background-position: -608px -2px}
+.2_4 {width:200px; height:100px; background-position: -406px -2px}
+.3_4 {width:200px; height:100px; background-position: -204px -2px}
+.4_4 {width:200px; height:100px; background-position: -2px -2px}
