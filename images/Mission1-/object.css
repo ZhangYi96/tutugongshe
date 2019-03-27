@@ -1,0 +1,36 @@
+/* -----------------------------------------------------
+   created with https://www.codeandweb.com/texturepacker 
+   -----------------------------------------------------
+   $TexturePacker:SmartUpdate:0d8ba0bba5cff0384a3d925a4e1b6656:ec9bf9d8f6f25bef068e21f729351c2b:cea864eb8c27721cfead16c882f7919e$
+   -----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(object.png);}
+
+.0-5 {width:200px; height:110px; background-position: -590px -0px}
+.1-5 {width:200px; height:110px; background-position: -790px -0px}
+.2-5 {width:200px; height:110px; background-position: -1190px -0px}
+.3-5 {width:200px; height:110px; background-position: -990px -0px}
+.4-5 {width:200px; height:110px; background-position: -390px -0px}
+.5-5 {width:200px; height:110px; background-position: -190px -0px}
+.Setting {width:140px; height:140px; background-position: -1575px -0px}
+.cleaner {width:65px; height:115px; background-position: -1390px -0px}
+.clickPic1 {width:350px; height:240px; background-position: -340px -140px}
+.clickcompute1 {width:413px; height:366px; background-position: -0px -506px}
+.clickmirror1 {width:270px; height:270px; background-position: -960px -140px}
+.comb {width:110px; height:50px; background-position: -0px -0px}
+.compute {width:413px; height:366px; background-position: -1230px -140px}
+.duck {width:120px; height:120px; background-position: -1455px -0px}
+.fly {width:80px; height:80px; background-position: -110px -0px}
+.mirror {width:270px; height:268px; background-position: -690px -140px}
+.pic {width:180px; height:200px; background-position: -160px -140px}
+.wind {width:160px; height:160px; background-position: -0px -140px}
+.window-left {width:340px; height:580px; background-position: -753px -506px}
+.window-left-open {width:340px; height:580px; background-position: -1093px -506px}
+.window-right {width:340px; height:580px; background-position: -1433px -506px}
+.window-right-open {width:340px; height:580px; background-position: -413px -506px}

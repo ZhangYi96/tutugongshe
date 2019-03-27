@@ -1,8 +1,8 @@
-/* -----------------------------------------------------
-   created with https://www.codeandweb.com/texturepacker 
-   -----------------------------------------------------
-   $TexturePacker:SmartUpdate:66b794ac5c63234aa082871d77ab520c:4b6d5b42754f4d5d549747880afd4b89:3073a2cbadd3bb677cba8f56e33cbd0e$
-   -----------------------------------------------------
+/* ----------------------------------------------------
+   created with http://www.codeandweb.com/texturepacker 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:d80a59bcca2c3ce03d20dc5099034a2f:ed8e572856d563a247b7c9812b3e7d1f:3073a2cbadd3bb677cba8f56e33cbd0e$
+   ----------------------------------------------------
 
    usage: <span class="{-spritename-} sprite"></span>
 
@@ -12,9 +12,9 @@
 
 .sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(person.png);}
 
-.angry {width:400px; height:930px; background-position: -0px -0px}
-.eye {width:400px; height:930px; background-position: -400px -0px}
-.fllow {width:400px; height:930px; background-position: -800px -0px}
-.init-boy {width:400px; height:930px; background-position: -0px -930px}
-.scared {width:400px; height:930px; background-position: -400px -930px}
-.tired {width:400px; height:930px; background-position: -800px -930px}
+.angry {width:425px; height:935px; background-position: -1px -1px}
+.eye {width:425px; height:935px; background-position: -1px -938px}
+.flower {width:425px; height:935px; background-position: -428px -1px}
+.init {width:425px; height:935px; background-position: -428px -938px}
+.scared {width:425px; height:935px; background-position: -855px -1px}
+.tired {width:425px; height:935px; background-position: -855px -938px}

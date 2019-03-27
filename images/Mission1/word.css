@@ -1,0 +1,25 @@
+/* ----------------------------------------------------
+   created with http://www.codeandweb.com/texturepacker 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:34f4016e342383ba303d2678199aa474:ad607119c29f2cb793ec0d8099a7e8a2:4b82506d3faf5eb3791e1d02a65e7b18$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(word.png);}
+
+.cleaner {width:746px; height:317px; background-position: -1px -1px}
+.comb {width:746px; height:317px; background-position: -749px -1px}
+.compute {width:746px; height:317px; background-position: -1px -320px}
+.duck {width:746px; height:317px; background-position: -749px -320px}
+.fly {width:746px; height:317px; background-position: -1px -639px}
+.mirror {width:746px; height:317px; background-position: -749px -639px}
+.w1 {width:746px; height:317px; background-position: -1px -958px}
+.w2 {width:746px; height:317px; background-position: -1px -1277px}
+.w3 {width:746px; height:317px; background-position: -1px -1596px}
+.w4 {width:746px; height:317px; background-position: -749px -958px}
+.wind {width:746px; height:317px; background-position: -749px -1277px}
