@@ -1,0 +1,23 @@
+/* ----------------------------------------------------
+   created with http://www.codeandweb.com/texturepacker 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:c869dca85b69773fc8bf537d26172560:8c75a17e75f089e102e29bcac7c5b1b3:d383d550de5ca1b6ebd93187295d4cb6$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(Mission4Word.png);}
+
+.huaxiang {width:746px; height:317px; background-position: -1px -1px}
+.maojin {width:746px; height:317px; background-position: -749px -1px}
+.w1 {width:746px; height:317px; background-position: -1px -320px}
+.w2 {width:746px; height:317px; background-position: -749px -320px}
+.wangcai {width:746px; height:317px; background-position: -1px -639px}
+.wind {width:746px; height:317px; background-position: -749px -639px}
+.xifachi {width:746px; height:317px; background-position: -1px -958px}
+.zhengfaji {width:746px; height:317px; background-position: -749px -958px}
+.zhuantong {width:746px; height:317px; background-position: -1px -1277px}
