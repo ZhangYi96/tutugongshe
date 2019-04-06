@@ -1,0 +1,25 @@
+/* -----------------------------------------------------
+   created with https://www.codeandweb.com/texturepacker 
+   -----------------------------------------------------
+   $TexturePacker:SmartUpdate:c768ac5746bd56cdf74b9df8146e779f:47046f21d41b535f8b6a956651472ce4:03ee24dd5144e52f53d3c47fcdff438f$
+   -----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(two1.png);}
+
+.1 {width:746px; height:317px; background-position: -1px -1px}
+.2 {width:746px; height:317px; background-position: -749px -1px}
+.3 {width:746px; height:317px; background-position: -1px -320px}
+.人物1 {width:746px; height:317px; background-position: -749px -320px}
+.人物2 {width:746px; height:317px; background-position: -1px -639px}
+.可乐 {width:746px; height:317px; background-position: -749px -639px}
+.咖啡 {width:746px; height:317px; background-position: -1px -958px}
+.洗发水 {width:746px; height:317px; background-position: -1px -1277px}
+.盒子 {width:746px; height:317px; background-position: -1px -1596px}
+.篮子 {width:746px; height:317px; background-position: -749px -958px}
+.购物车 {width:746px; height:317px; background-position: -749px -1277px}

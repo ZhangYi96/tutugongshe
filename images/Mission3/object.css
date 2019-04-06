@@ -1,8 +1,8 @@
-/* ----------------------------------------------------
-   created with http://www.codeandweb.com/texturepacker 
-   ----------------------------------------------------
-   $TexturePacker:SmartUpdate:b820b1cdc35e082a163d909aac1518fa:2b46cbe9882a0aee0ac1e640405d890d:912c13b19c4993f8f4144d80b773e561$
-   ----------------------------------------------------
+/* -----------------------------------------------------
+   created with https://www.codeandweb.com/texturepacker 
+   -----------------------------------------------------
+   $TexturePacker:SmartUpdate:1f090c1952c32356275bcb440d13fc43:2c4c5a8d5df688dd6332581ac98aa9ec:674a9ff0572dbfedcdd450fee0e6c47b$
+   -----------------------------------------------------
 
    usage: <span class="{-spritename-} sprite"></span>
 
@@ -10,13 +10,13 @@
 
 */
 
-.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(Mission3object.png);}
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(t.png);}
 
-.audio {width:182px; height:131px; background-position: -1px -789px}
-.clock {width:181px; height:181px; background-position: -546px -480px}
-.drink {width:161px; height:199px; background-position: -546px -279px}
-.drinkman {width:372px; height:387px; background-position: -1px -400px}
-.lamp {width:168px; height:276px; background-position: -546px -1px}
-.lamp2 {width:395px; height:397px; background-position: -1px -1px}
-.mik {width:146px; height:687px; background-position: -398px -1px}
-.pic {width:191px; height:257px; background-position: -375px -690px}
+.guahua {width:191px; height:257px; background-position: -375px -690px}
+.huatong {width:146px; height:687px; background-position: -398px -1px}
+.jiubei {width:161px; height:199px; background-position: -546px -279px}
+.shizhong {width:181px; height:181px; background-position: -546px -480px}
+.收音机 {width:182px; height:131px; background-position: -1px -789px}
+.灯 {width:168px; height:276px; background-position: -546px -1px}
+.调酒师 {width:372px; height:387px; background-position: -1px -400px}
+.霓虹灯 {width:395px; height:397px; background-position: -1px -1px}

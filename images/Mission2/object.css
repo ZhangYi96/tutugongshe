@@ -1,0 +1,22 @@
+/* -----------------------------------------------------
+   created with https://www.codeandweb.com/texturepacker 
+   -----------------------------------------------------
+   $TexturePacker:SmartUpdate:0351b6fd806c7f408335150b14133e34:65596f388d4b3b39e491b81fe4b93945:5825a43f0c18c022703a82cb574e465d$
+   -----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(two.png);}
+
+.可乐 {width:358px; height:95px; background-position: -1px -893px}
+.咖啡 {width:129px; height:177px; background-position: -595px -788px}
+.收银员 {width:283px; height:475px; background-position: -480px -1px}
+.洗发水 {width:98px; height:201px; background-position: -361px -583px}
+.盒子1 {width:279px; height:308px; background-position: -480px -478px}
+.盒子2 {width:279px; height:308px; background-position: -1px -583px}
+.篮子 {width:232px; height:200px; background-position: -361px -788px}
+.购物车 {width:477px; height:580px; background-position: -1px -1px}

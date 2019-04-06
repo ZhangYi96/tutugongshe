@@ -1,0 +1,21 @@
+/* -----------------------------------------------------
+   created with https://www.codeandweb.com/texturepacker 
+   -----------------------------------------------------
+   $TexturePacker:SmartUpdate:984a293764f4d880f1c06cd3c5b6d618:c6a5f257b5765d71bc5a26056ab6cbaf:912379aa3c00a3b3c31ca3263122fb40$
+   -----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(4-0.png);}
+
+.初始转筒 {width:398px; height:887px; background-position: -1px -1px}
+.吹风机 {width:398px; height:887px; background-position: -1px -890px}
+.旺财 {width:398px; height:887px; background-position: -401px -1px}
+.毛巾 {width:398px; height:887px; background-position: -401px -890px}
+.洗发池 {width:398px; height:887px; background-position: -801px -1px}
+.绿画像 {width:398px; height:887px; background-position: -801px -890px}
+.蒸发机 {width:398px; height:887px; background-position: -1201px -1px}
