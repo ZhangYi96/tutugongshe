@@ -1,0 +1,19 @@
+/* -----------------------------------------------------
+   created with https://www.codeandweb.com/texturepacker 
+   -----------------------------------------------------
+   $TexturePacker:SmartUpdate:20f4324e2f48d51c7a4151e85cbd80e9:5db5ae41924d7620f9ed07970d887df0:be248964ce2d1536dc25687c33c42641$
+   -----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(第五关素材-0.png);}
+
+.1 {width:1080px; height:676px; background-position: -1px -1px}
+.2 {width:1080px; height:676px; background-position: -1px -679px}
+.3 {width:1080px; height:676px; background-position: -1px -1357px}
+.j {width:755px; height:492px; background-position: -1083px -1px}
+.qd {width:247px; height:96px; background-position: -1083px -495px}

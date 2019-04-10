@@ -1,7 +1,7 @@
 /* ----------------------------------------------------
-   created with http://www.codeandweb.com/texturepacker 
+   created with http://www.texturepacker.com 
    ----------------------------------------------------
-   $TexturePacker:SmartUpdate:1f4818f6d6642e2b6f3c5c9904450c49:65422100cae554dae223b8c0ea663268:cea864eb8c27721cfead16c882f7919e$
+   $TexturePacker:SmartUpdate:6c69def74eaa9f9b65a7c36bac77092f$
    ----------------------------------------------------
 
    usage: <span class="{-spritename-} sprite"></span>
@@ -12,17 +12,17 @@
 
 .sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(object.png);}
 
-.cleaner {width:59px; height:118px; background-position: -1370px -351px}
-.comb {width:112px; height:50px; background-position: -906px -861px}
-.compute1 {width:417px; height:361px; background-position: -1px -576px}
-.compute2 {width:417px; height:361px; background-position: -420px -576px}
-.duck {width:107px; height:105px; background-position: -1261px -351px}
-.fly {width:65px; height:74px; background-position: -839px -861px}
-.l1 {width:313px; height:573px; background-position: -1px -1px}
-.l2 {width:313px; height:573px; background-position: -316px -1px}
-.mirror1 {width:272px; height:283px; background-position: -839px -576px}
-.mirror2 {width:272px; height:283px; background-position: -1113px -576px}
-.pic {width:176px; height:198px; background-position: -1261px -1px}
-.r1 {width:313px; height:573px; background-position: -631px -1px}
-.r2 {width:313px; height:573px; background-position: -946px -1px}
-.wind {width:137px; height:148px; background-position: -1261px -201px}
+.ÓÒ¹Ø´°Á± {width:323px; height:573px; background-position: -977px -2px}
+.ÓÒ¿ª´°Á± {width:323px; height:573px; background-position: -652px -2px}
+.´µ·ç»ú {width:139px; height:150px; background-position: -1302px -202px}
+.×ó¹Ø´°Á± {width:323px; height:573px; background-position: -327px -2px}
+.×ó¿ª´°Á± {width:323px; height:573px; background-position: -2px -2px}
+.Êá×Ó {width:110px; height:49px; background-position: -864px -848px}
+.Ï´ÃæÄÌ {width:52px; height:113px; background-position: -1412px -354px}
+.µçÄÔ1 {width:397px; height:360px; background-position: -401px -577px}
+.µçÄÔ2 {width:397px; height:360px; background-position: -2px -577px}
+.»­¿ò {width:190px; height:198px; background-position: -1302px -2px}
+.²ÔÓ¬ {width:62px; height:77px; background-position: -800px -848px}
+.¾µ×Ó1 {width:269px; height:269px; background-position: -1071px -577px}
+.¾µ×Ó2 {width:269px; height:269px; background-position: -800px -577px}
+.Ñ¼×Ó {width:108px; height:103px; background-position: -1302px -354px}
