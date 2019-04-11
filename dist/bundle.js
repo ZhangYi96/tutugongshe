@@ -7,10 +7,11 @@ if(0 == this.clickType){
     var MIME_TYPE = "image/png";
 
     var Url = canvasElement.toDataURL(MIME_TYPE);
-    var name = "第"+[this.missionId]+"关荣耀证书.png";
+
+    var s = ['一','二','三','四']
+    var name = "第"+s[this.missionId]+"关荣耀证书.png";
     
     /*var dlLink = document.createElement('a');
-    var s = ['一','二','三','四']
     dlLink.download = name;
     dlLink.href = Url;
     dlLink.dataset.downloadurl = [MIME_TYPE, dlLink.download, dlLink.href].join(':');
