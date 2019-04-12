@@ -3,13 +3,25 @@
 <head>
 	<meta charset="UTF-8">
 	<title>秃秃公社</title>
-	
+	<style>
+	#myvideo{
+		position: absolute;
+		top: 40%;
+	}
+	#videoDiv{
+		display: none;
+	}
+	</style>
 
 </head>
 <body>
 	<canvas id="canvas" width="1080" height="1920" style="margin-left: -8px; margin-top: -8px;">
 您的浏览器不支持 HTML5 canvas 标签。
 </canvas>
+<div id="videoDiv">
+<video src ='audio/caidan.mp4' id="myvideo" width="640" height="368" controls loop>
+</video>
+</div>
 <script type="text/javascript" src="http://html2canvas.hertzen.com/dist/html2canvas.js"></script>
 <script type="text/javascript" src='dist/bundle.js'></script>
 <script type="text/javascript">
